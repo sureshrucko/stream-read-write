@@ -1,2 +1,2 @@
 # stream-read-write
-Read and write data in csv file through stream
+Read and write data in csv file (with stream and with-out stream)
